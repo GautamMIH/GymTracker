@@ -65,7 +65,7 @@ Whether you're lifting weights, doing bodyweight exercises, or managing group wo
 
 ### Manage Exercises
 
-<img src="https://github.com/GautamMIH/GymTracker/blob/main/images/ManageExercises.jpg?raw=true" alt="Manage Exercises" width="250"/>
+<img src="https://github.com/GautamMIH/GymTracker/blob/main/images/ManageExercices.jpg?raw=true" alt="Manage Exercises" width="250"/>
 
 ### Manage Groups
 
