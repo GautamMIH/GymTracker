@@ -30,4 +30,22 @@ Whether you're lifting weights, doing bodyweight exercises, or managing group wo
 - **Export / Import exercises and groups** to share with friends.
 
 ## Screenshots
+![HomePage](https://github.com/GautamMIH/GymTracker/blob/main/images/Homepage.jpg?raw=true)
 
+![Workout Page](https://github.com/GautamMIH/GymTracker/blob/main/images/WorkoutPage.jpg?raw=true)
+
+![Active Workout](https://github.com/GautamMIH/GymTracker/blob/main/images/ActiveWOrkout.jpg?raw=true)
+
+![Workout History](https://github.com/GautamMIH/GymTracker/blob/main/images/WorkoutHistory.jpg?raw=true)
+
+![User Profile](https://github.com/GautamMIH/GymTracker/blob/main/images/UserProfile.jpg?raw=true)
+
+![Create Exercise](https://github.com/GautamMIH/GymTracker/blob/main/images/CreateExercise.jpg?raw=true)
+
+![Select Category](https://github.com/GautamMIH/GymTracker/blob/main/images/SelectExerciseCategory.jpg?raw=true)
+
+![Create Group](https://github.com/GautamMIH/GymTracker/blob/main/images/AddGroups.jpg?raw=true)
+
+![Manage Exercise](https://github.com/GautamMIH/GymTracker/blob/main/images/ManageExercises.jpg?raw=true)
+
+![Manage Group](https://github.com/GautamMIH/GymTracker/blob/main/images/ManageGroups.jpg?raw=true)
